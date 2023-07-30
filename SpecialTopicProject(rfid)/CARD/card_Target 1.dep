@@ -1,0 +1,17 @@
+Dependencies for Project 'card', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x532C1658)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\NXP\LPC17xx--list .\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (..\..\PROJECTS\ST_PROJECT\CARD\CARD.c)(0x60B22541)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\NXP\LPC17xx-o .\card.o --omf_browse .\card.crf --depend .\card.d)
+I (D:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x532C1734)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (D:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+F (.\system_LPC17xx.h)(0x532C1734)()
+F (D:\Keil\packs\Keil\LPC1700_DFP\2.6.0\Device\Source\system_LPC17xx.c)(0x5849004A)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I D:\Keil\ARM\RV31\INC-I D:\Keil\ARM\CMSIS\Include-I D:\Keil\ARM\Inc\NXP\LPC17xx-o .\system_lpc17xx.o --omf_browse .\system_lpc17xx.crf --depend .\system_lpc17xx.d)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (D:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C1734)
+I (D:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (D:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (D:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
